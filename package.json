@@ -77,7 +77,7 @@
     "slash": "^1.0.0",
     "static-site-generator-webpack-plugin": "^2.1.0",
     "style-loader": "^0.13.0",
-    "toml": "^2.2.2",
+    "toml": "^5.0.1",
     "toml-loader": "^1.0.0",
     "tracer": "^0.8.3",
     "url-loader": "^0.5.7",
